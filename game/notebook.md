@@ -1,7 +1,7 @@
  Detective's Notebook
 
 ## Suspects
-- [ ] The Police Officer
+- [X ] The Police Officer
 - [ ] The Florist
 - [ ] The Blacksmith
 
@@ -15,5 +15,6 @@
 
 En playground esta glass bottle (park-playground)
 En art room esta el Walking Stick (school - clsassroom - art room)
+En storage se encontró al police
 
 ocation of the crime is still unknown - the room must have been empty when it happened...
