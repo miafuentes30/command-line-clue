@@ -1,4 +1,4 @@
-# Detective's Notebook
+ Detective's Notebook
 
 ## Suspects
 - [ ] The Police Officer
@@ -7,10 +7,12 @@
 
 ## Weapons
 - [ ] Magnifying Glass
-- [ ] Glass Bottle
+- [X] Glass Bottle
 - [ ] Walking Stick
 
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+En playground esta glass bottle (park-playground)
+
+ocation of the crime is still unknown - the room must have been empty when it happened...
